@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello everyone
+  <img src="https://media3.giphy.com/media/QGoxu7KIgMPvKFP3ze/200w.webp?cid=ecf05e47x90lhxw1zk69qas3d4v624pqbqlckljkqfq75mhp&rid=200w.webp&ct=s" width="200"/> 
+ :heart_eyes: it`s me!
+  
+ :smiling_face_with_three_hearts: I love working and getting results from the work I do! 
+ 
+ 
+:revolving_hearts: Thanks for visiting my page! :revolving_hearts:
 
-<!--
-**thomi2mel/thomi2mel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My skills aren't that great yet, but I can show you what I can do! 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have a good and productive day, everyone! 
